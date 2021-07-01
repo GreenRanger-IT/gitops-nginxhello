@@ -1,0 +1,1 @@
+{"jobID":"3419f0ed-b4c8-75db-236d-9a569ba50396","spec":{"type":"policy","cause":{"Message":"","User":"olawale ogundiran \u003coogundiran@slb.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.19.x"},"remove":{}}}},"result":null}
